@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a7537b92.css",
+    "main.js": "/static/js/main.9a859387.js",
+    "static/js/787.a2f6b77c.chunk.js": "/static/js/787.a2f6b77c.chunk.js",
+    "static/media/LL_homepage.png": "/static/media/LL_homepage.7bcc4aaf5765a3b7edb5.png",
+    "static/media/LL_greeksalad.png": "/static/media/LL_greeksalad.e23d6e080eff131baa88.png",
+    "static/media/LL_pasta.png": "/static/media/LL_pasta.4650f2173b18c368d3ed.png",
+    "static/media/LL_bruschetta.png": "/static/media/LL_bruschetta.58e84af60bb6c4e889d1.png",
+    "static/media/Testi02.avif": "/static/media/Testi02.8b73cb9ea6978f808bd4.avif",
+    "static/media/Testi01.avif": "/static/media/Testi01.71e1f9843bcd4806ad8d.avif",
+    "static/media/LL_AboutUs.avif": "/static/media/LL_AboutUs.75ecb8bc1fcdbcebaf0f.avif",
+    "static/media/Testi03.avif": "/static/media/Testi03.fcc1455c50742a04ad0d.avif",
+    "static/media/LogoLLheader.png": "/static/media/LogoLLheader.d4cae6fac8384c2dae04.png",
+    "index.html": "/index.html",
+    "main.a7537b92.css.map": "/static/css/main.a7537b92.css.map",
+    "main.9a859387.js.map": "/static/js/main.9a859387.js.map",
+    "787.a2f6b77c.chunk.js.map": "/static/js/787.a2f6b77c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7537b92.css",
+    "static/js/main.9a859387.js"
+  ]
+}
